@@ -4,7 +4,11 @@ MSG=""
 
 for i in "$@"
 do MSG+=$i
+#   MSG+=" "
 done
+
+#MSG+="\""
+echo $MSG
 
 git add -A
 git commit -am $MSG
