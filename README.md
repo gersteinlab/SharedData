@@ -8,9 +8,11 @@ To share data:
 2. Run update.sh under your data directory. Do *scratch/fas/gerstein
 /common/update.sh msg*, where msg is the short commit message
 
+**Right now, blank is not allowed in msg**
+
 Example: 
 
-`scratch/fas/gerstein/common/update.sh fixed my readfile for 1kgphase3`
+`scratch/fas/gerstein/common/update.sh fixedReadFilefor1kgphase3`
 
 
 *STL Aug/15*    
