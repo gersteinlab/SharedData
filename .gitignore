@@ -7,4 +7,4 @@
 !readme.txt
 
 # Including files in the subdirectories
-!*/
+!*/readme.txt
