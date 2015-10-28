@@ -8,5 +8,5 @@
 !readme.txt
 
 # Including files in the subdirectories
-!*/readme.txt
+# !*/readme.txt // somehow this stops working? Ugh...
 !*/
